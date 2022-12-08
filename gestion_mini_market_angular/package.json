@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^14.2.7"
+  },
+  "dependencies": {
+    "jquery": "^3.6.1"
+  }
+}
